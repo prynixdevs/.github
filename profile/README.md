@@ -25,6 +25,7 @@ Prynix is a team of ambitious high school students who share a common passion fo
 ### Programming Languages
 - **Python** - Data science, AI/ML, and backend development
 - **C++** - System programming and performance-critical applications
+- **JAVA** - Minecraft Mods and Android applications
 - **JavaScript/TypeScript** - Web development and Node.js applications
 - **And more** - Always exploring new languages and paradigms
 
