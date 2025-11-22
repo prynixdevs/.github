@@ -102,7 +102,7 @@ Special thanks to all our team members who contribute their time, skills, and pa
 
 <div align="center">
 
-**Built with passion by the next generation of developers**
+**Built with passion by the upcoming generation of developers**
 
 [Visit our GitHub](https://github.com/prynixdevs) • [Follow Prasoon](https://github.com/prasoonkandel)
 
