@@ -17,7 +17,7 @@ Prynix is a team of ambitious high school students who share a common passion fo
 
 
 ### Game Development
-- Unity-based game projects
+- Unity-based game projects.
 - 2D and 3D game mechanics
 - Interactive storytelling
 - Mobile and desktop gaming
