@@ -15,7 +15,6 @@ Prynix is a team of ambitious high school students who share a common passion fo
 - Full-stack web applications
 - Responsive design and user experience
 
-
 ### Game Development
 - Unity-based game projects.
 - 2D and 3D game mechanics
