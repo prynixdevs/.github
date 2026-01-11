@@ -13,20 +13,11 @@ Prynix is a team of ambitious high school students who share a common passion fo
 Prynix is proudly affiliated with the [Hack Club](https://hackclub.com) network, a global community of high school coding clubs and makers. This affiliation provides our members with access to resources, a worldwide network of student developers, and opportunities to participate in hackathons and collaborative projects.
 
 ## What We Do
-
-### For Students
 - Build and collaborate on real-world projects
 - Learn new technologies and frameworks
 - Connect with peers who share similar interests
 - Participate in hackathons and coding challenges
-- Turn ideas into reality with mentorship and support
-
-### For Educators & Industry Professionals
-- Mentor our team members
-- Provide project guidance and career advice
-- Share industry insights and best practices
-- Collaborate on educational initiatives
-
+  
 ## Current Projects
 
 We're constantly working on exciting projects across various domains.  Check out our repositories to see what we're building and feel free to contribute or provide feedback. 
