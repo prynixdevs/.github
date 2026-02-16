@@ -1,6 +1,6 @@
 # Prynix
 
-A collaborative community of passionate high school developers exploring the world of technology through hands-on projects and continuous learning.
+A collaborative team of passionate high school developers exploring the world of technology through hands-on projects and continuous learning.
 
 ## About Us
 
