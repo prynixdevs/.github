@@ -1,6 +1,6 @@
 # Prynix
 
-A collaborative team of passionate high school developers exploring the world of technology through hands-on projects and continuous learning.
+A team of passionate high school developers exploring the world of technology through hands-on projects and continuous learning.
 
 ## About Us
 
@@ -30,15 +30,6 @@ We're constantly working on exciting projects across various domains.  Check out
 ## Code of Conduct
 
 We are committed to providing a welcoming and inclusive environment for all community members. We expect everyone to treat others with respect and kindness, regardless of their background or experience level.
-
-## Future Vision
-
-Our goal is to grow into a recognized community that bridges the gap between academic learning and real-world application in technology. We aim to:
-
-- Develop open-source projects that solve real problems
-- Create educational resources for fellow students
-- Build a network of young tech professionals
-- Contribute meaningfully to the global tech community
 
 ## Acknowledgments
 
