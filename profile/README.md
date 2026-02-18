@@ -31,6 +31,15 @@ We're constantly working on exciting projects across various domains.  Check out
 
 We are committed to providing a welcoming and inclusive environment for all community members. We expect everyone to treat others with respect and kindness, regardless of their background or experience level.
 
+## Future Vision
+
+Our goal is to grow into a recognized community that bridges the gap between academic learning and real-world application in technology. We aim to:
+
+- Develop open-source projects that solve real problems
+- Create educational resources for fellow students
+- Build a network of young tech professionals
+- Contribute meaningfully to the global tech community
+
 ## Acknowledgments
 
 Special thanks to all our team members who contribute their time, skills, and passion to make Prynix a thriving community of young innovators.  We're grateful to [Hack Club](https://hackclub.com) for their support and for connecting student developers worldwide.
