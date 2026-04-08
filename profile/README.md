@@ -4,7 +4,7 @@ A team of passionate high school developers exploring the world of technology th
 
 ## About Us
 
-Prynix is a team of ambitious high school students who share a common passion for technology and innovation. We believe that age is just a number when it comes to creating meaningful solutions and pushing the boundaries of what's possible in tech.
+Prynix is a team of high school students who share a common passion for technology and innovation. We believe that age is just a number when it comes to technological innovations.
 
 **Founded and led by [Prasoon Kandel](https://github.com/prasoonkandel)**, our community brings together young minds from around the world to collaborate, learn, and build the future together.
 
@@ -40,7 +40,7 @@ Special thanks to all our team members who contribute their time, skills, and pa
 
 <div align="center">
 
-**Built with passion by the upcoming generation of developers**
+**Built with by the upcoming generation of developers**
 
 [Visit our GitHub](https://github.com/prynixdevs) • [Follow Prasoon](https://github.com/prasoonkandel)
 
