@@ -1,12 +1,12 @@
 # Prynix
 
-A team of passionate high school developers exploring the world of technology through hands-on projects and continuous learning.
+A team of passionate high school developers exploring the world of technology through hands-on projects and continuous learning. We are an official hackclub.
 
 ## About Us
 
 Prynix is a team of high school students who share a common passion for technology and innovation. We believe that age is just a number when it comes to technological innovations.
 
-**Founded and led by [Prasoon Kandel](https://github.com/prasoonkandel)**, our community brings together young minds from around the world to collaborate, learn, and build the future together.
+**Founded and led by [Prasoon Kandel](https://github.com/prasoonkandel) & powered by [Hackclub](https://hackclub.com)**,  our community brings together young minds from around the world to collaborate, learn, and build the future together.
 
 ### Hack Club Affiliation
 
