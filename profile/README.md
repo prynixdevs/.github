@@ -6,7 +6,7 @@ A community of high school developers building, competing, and growing together.
 
 [![Hack Club](https://img.shields.io/badge/Hack%20Club-Affiliated-ec3750?style=for-the-badge&logo=hackclub&logoColor=white)](https://hackclub.com)
 [![GitHub](https://img.shields.io/badge/GitHub-prynixdevs-181717?style=for-the-badge&logo=github)](https://github.com/prynixdevs)
-[![Leader](https://img.shields.io/badge/Led%20by-Prasoon%20Kandel-6f42c1?style=for-the-badge)](https://prasoonkandel.com)
+[![Leader](https://img.shields.io/badge/Led%20by-Prasoon%20Kandel-FFC107?style=for-the-badge&logoColor=black)](https://prasoonkandel.com)
 
 </div>
 
