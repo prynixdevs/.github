@@ -58,7 +58,7 @@ Browse our [organization repositories](https://github.com/prynixdevs) to see wha
 | Founded by | [Prasoon Kandel](https://prasoonkandel.com) |
 | Leader's GitHub | [github.com/prasoonkandel](https://github.com/prasoonkandel) |
 | Founded | June 27, 2025 |
-| Hack Club | [hackclub.com](https://hackclub.com) (affiliated since Jan 7, 2026) |
+| Hack Club | [hackclub.com](https://hackclub.com) (affiliated since Jan 1, 2026) |
 
 ---
 
