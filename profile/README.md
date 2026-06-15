@@ -2,7 +2,7 @@
 
 # Prynix
 
-A community of high school developers building, competing, and growing together.
+A community of high school developers learning, building, and shipping together.
 
 [![Hack Club](https://img.shields.io/badge/Hack%20Club-Affiliated-ec3750?style=for-the-badge&logo=hackclub&logoColor=white)](https://hackclub.com)
 [![GitHub](https://img.shields.io/badge/GitHub-prynixdevs-181717?style=for-the-badge&logo=github)](https://github.com/prynixdevs)
