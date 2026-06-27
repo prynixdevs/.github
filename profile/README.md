@@ -16,7 +16,7 @@ Prynix is a developer community founded and run by high school students. We came
 
 Since starting out, we've organized events for our members, competed in hackathons, placed in game jams, and kept on growing. We're still early, but we're moving. The events and projects we have lined up are bigger than anything we've done before.
 
-Founded by [Prasoon Kandel](https://prasoonkandel.com). Affiliated with [Hack Club](https://hackclub.com), a global network of student developers.
+Founded by [Prasoon Kandel](https://prasoonkandel.com).
 
 ---
 
@@ -25,6 +25,14 @@ Founded by [Prasoon Kandel](https://prasoonkandel.com). Affiliated with [Hack Cl
 Prynix is a place for students who want to go beyond the classroom. Our members work on projects they actually care about, help each other get better, and participate in competitions to test what they've learned.
 
 We welcome developers at every level. Some of our members are just starting out. Others have been coding for years. What holds us together is the mindset: curious, hands-on, and always building something.
+
+---
+
+## Relation with Hackclub
+
+Prynix’s core team also runs a local Hack Club. So, we’re involved with Hack Club’s global community and programs, but we also run our own projects and events through Prynix.
+
+Being part of Hack Club keeps us close to a huge network of student builders. We get access to events, resources, and a chance to help make programming more accessible for high schoolers everywhere.
 
 ---
 
@@ -58,7 +66,7 @@ Browse our [organization repositories](https://github.com/prynixdevs) to see wha
 | Founded by | [Prasoon Kandel](https://prasoonkandel.com) |
 | Leader's GitHub | [github.com/prasoonkandel](https://github.com/prasoonkandel) |
 | Founded | June 27, 2025 |
-| Hack Club | [hackclub.com](https://hackclub.com) (affiliated since Jan 1, 2026) |
+| Hack Club | [hackclub.com](https://hackclub.com)|
 
 ---
 
