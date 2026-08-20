@@ -2,77 +2,101 @@
 
 # Prynix
 
-A community of high school developers learning, building, and shipping together.
+**A community for teen developers who want to build real things.**
 
-[![Hack Club](https://img.shields.io/badge/Hack%20Club-Affiliated-ec3750?style=for-the-badge&logo=hackclub&logoColor=white)](https://hackclub.com)
-[![GitHub](https://img.shields.io/badge/GitHub-prynixdevs-181717?style=for-the-badge&logo=github)](https://github.com/prynixdevs)
-[![Leader](https://img.shields.io/badge/Led%20by-Prasoon%20Kandel-FFC107?style=for-the-badge&logoColor=black)](https://prasoonkandel.com)
+[Discord](https://discord.gg/Y7caR7kMm) · [Apply](https://prynix.fillout.com/apply) · [GitHub Org](https://github.com/prynixdevs)
 
 </div>
 
 ---
 
-Prynix is a developer community founded and run by high school students. We came together because we wanted a space to actually build things, not just learn about them in theory, but get our hands dirty with real projects, real collaboration, and real challenges.
+## About
 
-Since starting out, we've organized events for our members, competed in hackathons, placed in game jams, and kept on growing. We're still early, but we're moving. The events and projects we have lined up are bigger than anything we've done before.
+Prynix is a community, not a company. We're a group of teen and student developers, mostly based in Nepal, who like building things together instead of learning alone. Prasoon Kandel started Prynix on June 27, 2025. Membership isn't limited to Nepal, either. People from anywhere are welcome to join.
 
-Founded by [Prasoon Kandel](https://prasoonkandel.com).
+The idea behind Prynix is simple. A lot of us already know how to code, but don't have people around to build real projects with, get feedback from, or team up with for hackathons and game jams. Prynix is that space. Less tutorials, more shipping.
+
+We call our members Prynix Devs. One member is a Prynix Dev, a group of them are Prynix Devs. That's just what we call each other here, whether you're brand new or have been coding for years.
+
+## What We Build
+
+We work across web development, Python, C++, JavaScript, AI/ML, data science, and some Arduino and electronics on the side.
+
+The projects below are just a small selection of projects created within or around Prynix. They are not a complete list of everything our members work on. Many members also have their own personal and independent projects outside of Prynix.
+
+| Project | Description | Stack |
+|---|---|---|
+| `Corpse_Climber` | A puzzle-platformer built for the Daydream game jam. Placed 2nd in the theming category. | C# (Unity) |
+| `discordbot` | Our Discord bot with AI chat, moderation, and utility commands. | Python |
+| `Underneath` | A 2D puzzle platformer built by a few Prynix developers. | C# (Unity) |
+| `CSS-Essentials` | A learning resource created for an advanced CSS workshop. | HTML |
+| `polygon` | A small 3D web experiment made for a workshop. | JavaScript |
+
+These are only a few examples of what has been built through Prynix. Our members also work on many personal projects, experiments, and other work that is separate from Prynix.
+
+You can find the source for these and other projects in the [Prynix GitHub org](https://github.com/prynixdevs).
+
+## Founding Team
+
+The people who helped start and build Prynix from its early days:
+
+| Name | Role | GitHub |
+|---|---|---|
+| **Prasoon Kandel** | Founder & Lead | [@prasoonkandel](https://github.com/prasoonkandel) |
+| **Pratik Chalise** | Founding Member | [@pratikchalise](https://github.com/pratikchalise) |
+| **Aayush Parajuli** (also known as *Hexagrim*) | Founding Member & Technical Lead | [@hexagrim](https://github.com/hexagrim) |
+
+### A small clarification
+
+Prasoon Kandel founded Prynix. Pratik Chalise and Aayush Parajuli joined during its early stages and became part of the founding team. They are referred to as founding members rather than co-founders.
+
+## Getting Involved
+
+There are two ways to be part of Prynix, and they're not the same thing.
+
+- **Apply to become an official Prynix Dev.** It's free. [Apply here](https://prynix.fillout.com/apply).
+- **Join the Discord.** This is more casual. You can hang out, ask questions, and see what people are working on without applying. [Join here](https://discord.gg/Y7caR7kMm).
+
+Being in the Discord doesn't automatically make you a Prynix Dev. If you want to actually join, use the application link above.
+
+## Prynix Hack Club
+
+We're also connected to [Hack Club](https://hackclub.com/), the global nonprofit for teenage developers. Our local chapter is run casually by a small group of Prynix Devs, around 8 to 10 people, based in Butwal. There are just a handful of people keeping it running
+
+Prynix Hack Club membership and Prynix membership are separate. If Prynix Hack Club is closed at some point, that doesn't affect whether you can still apply to become a Prynix Dev.
+
+## FAQ
+
+**Is Prynix a company?**
+No. It's a community. No product, no investors, nobody's on payroll.
+
+**Who's in charge?**
+Prasoon Kandel founded Prynix and leads it. Pratik serves as Co-Lead and Aayush as Technical Lead..
+
+**Do I need to already know how to code?**
+There's no official requirement posted anywhere saying you do. Beginners are welcome.
+
+**Does it cost anything to join?**
+No. Official membership is free.
+
+**How do I actually join?**
+Fill out the application at [prynix.fillout.com/apply](https://prynix.fillout.com/apply). Joining the Discord is a separate, more casual thing.
+
+**Is this only for people in Nepal?**
+No. Prynix itself is based in Nepal, but people from other countries can be part of the community. The Butwal-only part applies specifically to the Hack Club group, not Prynix as a whole.
+
+**What's the difference between Prynix and Prynix Hack Club?**
+Prynix is the whole community. Prynix Hack Club is a smaller, separate thing connected to it as well as affiliated with Hack Club, ran casually by a few Prynix Devs from Butwal. Being in one doesn't automatically mean you're in the other. Meanwhile Hack Club is a way bigger teen-community that empowers teen developers.
+
+## Community
+
+- **Discord:** [discord.gg/Y7caR7kMm](https://discord.gg/Y7caR7kMm)
+- **GitHub:** [github.com/prynixdevs](https://github.com/prynixdevs)
+- **Instagram:** [@prynixdevs](https://www.instagram.com/prynixdevs/)
+- **Contact:** contact@prynix.org
 
 ---
 
-## What Prynix Is
-
-Prynix is a place for students who want to go beyond the classroom. Our members work on projects they actually care about, help each other get better, and participate in competitions to test what they've learned.
-
-We welcome developers at every level. Some of our members are just starting out. Others have been coding for years. What holds us together is the mindset: curious, hands-on, and always building something.
-
----
-
-## Relation with Hackclub
-
-Prynix’s core team also runs a local Hack Club. So, we’re involved with Hack Club’s global community and programs, but we also run our own projects and events through Prynix.
-
-Being part of Hack Club keeps us close to a huge network of student builders. We get access to events, resources, and a chance to help make programming more accessible for high schoolers everywhere.
-
----
-
-## What We've Done
-
-- Organized internal events and sessions for our members
-- Competed in hackathons and game jams, and walked away with wins
-- Built and shipped projects across web, games, and tools
-- Grown a community where people actually show up and contribute
-
----
-
-## What's Coming
-
-We're working toward larger events, open to more people, with more to offer. The foundation is already there. The next chapter is being built right now.
-
----
-
-## Our Projects
-
-Browse our [organization repositories](https://github.com/prynixdevs) to see what we're working on as a team. You can also check out the personal work of our leader [Prasoon Kandel](https://github.com/prasoonkandel) and our members to get a feel for the kind of things people here build. If something interests you, feel free to contribute, open an issue, or just leave feedback. We appreciate all of it.
-
----
-
-## Get in Touch
-
- 
-| | |
-|---|---|
-| GitHub Organization | [github.com/prynixdevs](https://github.com/prynixdevs) |
-| Founded by | [Prasoon Kandel](https://prasoonkandel.com) |
-| Leader's GitHub | [github.com/prasoonkandel](https://github.com/prasoonkandel) |
-| Founded | June 27, 2025 |
-| Hack Club | [hackclub.com](https://hackclub.com)|
-
----
-
-> "The people who are crazy enough to think they can change the world are the ones who do."
->
-> -- Steve Jobs
- 
-
-
+<div align="center">
+<sub>Prynix is a community, not a company. Built by teens, for teens who want to build.</sub>
+</div>
